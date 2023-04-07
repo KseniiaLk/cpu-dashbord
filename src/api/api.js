@@ -1,4 +1,3 @@
-import React from 'react'
 import axios from 'axios'
 const WEATHER_API_KEY='a03d5359fd3cca8ba8a852c9e86b749c'
 const TRAFFIC_API_KEY='1f43b48aa22945f587a7865064f9c2e2'
